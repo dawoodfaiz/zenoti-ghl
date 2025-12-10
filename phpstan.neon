@@ -1,0 +1,7 @@
+parameters:
+    level: 1
+    paths:
+        - app
+        - bootstrap.php
+        - index.php
+        - helpers.php

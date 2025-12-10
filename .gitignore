@@ -1,0 +1,6 @@
+# Composer dependencies
+/vendor/
+
+# IDE and editor folders/files
+.vscode/
+.idea/
